@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "607c4dccfeb6c24b480d195f6c339ba4a98150e442245ce51fa8b2391673bb71"
+build_start_time: [1670387128, 273180961]
+build_end_time: [1670387128, 323522090]
+inputs:
+  "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData/ContentView.swift": !private [1670387121, 921724796]
+  "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData/sensorDataApp.swift": !private [1670387121, 913696765]

@@ -1,0 +1,103 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c12f69805ad0b90cbf0460a102781d916e26343ae4406209fff1e694d6cfed14",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.1",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "",
+          "buildProductsPath" : "",
+          "derivedDataPath" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData/sensorData/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData/sensorData/Index.noindex/PrecompiledHeaders",
+          "pchPath" : ""
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData/sensorData/Previews/sensorData/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData/sensorData/Previews/sensorData/Intermediates.noindex",
+              "SYMROOT" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData/sensorData/Previews/sensorData/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "12D90829-BE2A-4775-9032-9795D01D0A46",
+              "TARGET_DEVICE_MODEL" : "iPhone15,3",
+              "TARGET_DEVICE_OS_VERSION" : "16.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData/sensorData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData/sensorData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,3",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "12D90829-BE2A-4775-9032-9795D01D0A46",
+          "TARGET_DEVICE_MODEL" : "iPhone15,3",
+          "TARGET_DEVICE_OS_VERSION" : "16.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

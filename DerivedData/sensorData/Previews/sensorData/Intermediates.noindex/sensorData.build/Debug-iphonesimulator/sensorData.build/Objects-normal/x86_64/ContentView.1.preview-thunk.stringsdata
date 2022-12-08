@@ -1,0 +1,16 @@
+{
+  "source": "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/DerivedData/sensorData/Previews/sensorData/Intermediates.noindex/sensorData.build/Debug-iphonesimulator/sensorData.build/Objects-normal/x86_64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Data"
+      },
+      {
+        "comment": "",
+        "key": "Show Data!"
+      }
+    ]
+  },
+  "version": 1
+}

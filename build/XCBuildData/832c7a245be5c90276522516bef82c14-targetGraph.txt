@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+sensorData in sensorData, no dependencies
+sensorDataTests in sensorData, depends on:
+sensorData in sensorData (explicit)
+sensorDataUITests in sensorData, depends on:
+sensorData in sensorData (explicit)

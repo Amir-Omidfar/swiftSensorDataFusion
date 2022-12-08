@@ -1,0 +1,20 @@
+{
+  "source": "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Show Data!"
+      },
+      {
+        "comment": "",
+        "key": "Data"
+      },
+      {
+        "comment": "",
+        "key": "acceleration in x"
+      }
+    ]
+  },
+  "version": 1
+}
