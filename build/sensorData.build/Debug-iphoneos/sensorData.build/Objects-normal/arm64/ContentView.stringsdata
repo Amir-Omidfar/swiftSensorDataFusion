@@ -8,7 +8,11 @@
       },
       {
         "comment": "",
-        "key": "Data"
+        "key": "Accel Data"
+      },
+      {
+        "comment": "",
+        "key": "Gyro Data"
       },
       {
         "comment": "",
