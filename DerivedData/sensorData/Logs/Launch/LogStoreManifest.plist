@@ -51,10 +51,10 @@
 			<key>uniqueIdentifier</key>
 			<string>0B8CFFA8-32CB-47B0-A1BE-58709323F7D5</string>
 		</dict>
-		<key>1421ADC6-3E8C-4A77-820A-20D49E9E96BC</key>
+		<key>138DEBD6-3DDF-4758-9C99-0E69853F3BCD</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>909A4A90-231C-48B9-90EE-F7CA47F723BB</string>
+			<string>BEC27086-F91F-4EA1-BF26-99574ADFA4E9</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -67,7 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_10-41-45--0800.xcresult</string>
+			<string>Run-sensorData-2022.12.11_08-43-23--0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -88,18 +88,18 @@
 			<key>signature</key>
 			<string>Run sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692217705.82423902</real>
+			<real>692469803.15297401</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>1421ADC6-3E8C-4A77-820A-20D49E9E96BC</string>
+			<string>138DEBD6-3DDF-4758-9C99-0E69853F3BCD</string>
 		</dict>
-		<key>15275F67-0B55-44F7-83F9-5F29E179BF93</key>
+		<key>1446BEA8-45FE-4899-A2B6-5C3FA44C2360</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7E732AB6-170E-4EE1-A508-5F86C37C8A4F</string>
+			<string>E8E76A67-0894-48A8-AAB9-F80AAAF8B700</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -112,7 +112,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_08-52-49--0800.xcresult</string>
+			<string>Run-sensorData-2022.12.11_08-37-19--0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -133,18 +133,18 @@
 			<key>signature</key>
 			<string>Run sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692211169.06445897</real>
+			<real>692469439.201756</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>15275F67-0B55-44F7-83F9-5F29E179BF93</string>
+			<string>1446BEA8-45FE-4899-A2B6-5C3FA44C2360</string>
 		</dict>
-		<key>21332054-9B00-4E63-99B9-DCC4CCAD6A4B</key>
+		<key>1C8BF49D-DF03-4B02-AB26-CF8F53548A20</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>820498E1-FE2A-43BB-A0EA-B2F1AE125BF8</string>
+			<string>54DBEDC0-1D8C-4303-8BE7-AA26B55C9CEB</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -157,7 +157,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_16-25-59--0800.xcresult</string>
+			<string>Run-sensorData-2022.12.11_08-41-50--0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -178,18 +178,18 @@
 			<key>signature</key>
 			<string>Run sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692238359.53150499</real>
+			<real>692469710.65839398</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>21332054-9B00-4E63-99B9-DCC4CCAD6A4B</string>
+			<string>1C8BF49D-DF03-4B02-AB26-CF8F53548A20</string>
 		</dict>
-		<key>37708AD9-3BFC-4B41-A2D5-62D111265AEB</key>
+		<key>2605AA41-6901-4CAF-ADA4-C95917A6DAFC</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F50D6799-2810-45A3-89F2-84A57739456F</string>
+			<string>CCF6E40C-E853-4ED0-AC10-9E8F3B7E1BCB</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -202,7 +202,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_08-55-54--0800.xcresult</string>
+			<string>Run-sensorData-2022.12.11_08-42-36--0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -223,18 +223,18 @@
 			<key>signature</key>
 			<string>Run sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692211354.23856699</real>
+			<real>692469756.49452996</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>37708AD9-3BFC-4B41-A2D5-62D111265AEB</string>
+			<string>2605AA41-6901-4CAF-ADA4-C95917A6DAFC</string>
 		</dict>
-		<key>3B551303-974F-478D-B026-79A69BD2B5A0</key>
+		<key>6B769A5F-6EB6-4483-9657-CB6DC8F11949</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>57CA19C2-100A-49E6-B24E-05BBF0150ECB</string>
+			<string>CD7E86A6-86BA-4599-B740-05B677211557</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -247,7 +247,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_09-06-52--0800.xcresult</string>
+			<string>Run-sensorData-2022.12.11_08-33-14--0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -268,18 +268,153 @@
 			<key>signature</key>
 			<string>Run sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692212012.57425702</real>
+			<real>692469194.40071499</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>3B551303-974F-478D-B026-79A69BD2B5A0</string>
+			<string>6B769A5F-6EB6-4483-9657-CB6DC8F11949</string>
 		</dict>
-		<key>3D35E825-836A-4DE1-96A3-5D20BBABE601</key>
+		<key>C1D06AD7-C2FE-41B9-9789-1345C4E388A0</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>034E332D-DBDD-45E1-B8E4-36CB2F61D265</string>
+			<string>2363377F-12A8-418C-AE52-1E4B0D58BC9E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-sensorData-2022.12.11_08-17-14--0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692468234.28346395</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>C1D06AD7-C2FE-41B9-9789-1345C4E388A0</string>
+		</dict>
+		<key>CCD5F5D8-C876-4FBB-8B1F-F86FDC580AD0</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9E59E6E9-C34B-41CC-BA8C-1F37125E30D4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-sensorData-2022.12.11_08-37-48--0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692469468.98457599</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>CCD5F5D8-C876-4FBB-8B1F-F86FDC580AD0</string>
+		</dict>
+		<key>CCDD7791-823F-48B6-9610-AE757C282FE2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>46C8160F-09D0-4453-A551-26F91757DA24</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-sensorData-2022.12.11_08-43-40--0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692469820.99154699</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>CCDD7791-823F-48B6-9610-AE757C282FE2</string>
+		</dict>
+		<key>DA2D0CDA-2CBA-4DC6-AD71-9E4DAE35DC13</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D1F291A0-8019-43D3-B352-C5B2E9266340</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -292,367 +427,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_08-25-42--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692209542.04207897</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>3D35E825-836A-4DE1-96A3-5D20BBABE601</string>
-		</dict>
-		<key>46CE4433-EB0B-41C1-A9DC-DEA6BF412606</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>18930801-2172-4C58-A8AA-C5F678B7923E</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_16-33-16--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692238796.13068104</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>46CE4433-EB0B-41C1-A9DC-DEA6BF412606</string>
-		</dict>
-		<key>54C97182-1362-46D6-8455-4D5D4899AA6C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>10C7F2EE-99CC-44E6-8DD7-4748AC98E12A</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_16-35-43--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692238943.70019102</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>54C97182-1362-46D6-8455-4D5D4899AA6C</string>
-		</dict>
-		<key>670DFE70-9184-4F4A-8478-6B76CF5B4FEA</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F28EAB81-953B-4F21-BB94-AB0B1C402C24</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_10-31-46--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692217106.55848205</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>670DFE70-9184-4F4A-8478-6B76CF5B4FEA</string>
-		</dict>
-		<key>7B7D7081-CA1F-4B60-8E0D-B98DEEE7CB88</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8ACE546E-12A5-4608-A96E-F67C79D561CE</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_10-36-31--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692217391.29001606</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>7B7D7081-CA1F-4B60-8E0D-B98DEEE7CB88</string>
-		</dict>
-		<key>81BAB3F9-E5F0-4B6C-BB6A-80BA9212AA8A</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7CB4131E-E108-435B-9BD6-7C4CB69F5444</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_08-26-23--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692209583.92059803</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>81BAB3F9-E5F0-4B6C-BB6A-80BA9212AA8A</string>
-		</dict>
-		<key>97A61D9E-A745-4F81-847D-DF17F27ACC9D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>504B72F6-4024-4109-8CE5-CA9FD5674542</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_16-39-12--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692239152.21171296</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>97A61D9E-A745-4F81-847D-DF17F27ACC9D</string>
-		</dict>
-		<key>9BB5ACBC-25A0-4A93-B9F0-8FC1774F4871</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C65396C0-E035-427A-AFD9-AED6E93F4329</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_16-27-53--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692238473.41668296</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>9BB5ACBC-25A0-4A93-B9F0-8FC1774F4871</string>
-		</dict>
-		<key>A6902FB3-CFC7-4D73-8E46-7B0A5BBF4882</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3FDCCC32-DAD4-4277-8444-D1CC5C93F8B1</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.07_08-40-17--0800.xcresult</string>
+			<string>Run-sensorData-2022.12.11_08-41-09--0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -673,18 +448,63 @@
 			<key>signature</key>
 			<string>Run sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692124017.29668903</real>
+			<real>692469669.02069795</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>A6902FB3-CFC7-4D73-8E46-7B0A5BBF4882</string>
+			<string>DA2D0CDA-2CBA-4DC6-AD71-9E4DAE35DC13</string>
 		</dict>
-		<key>BDE407BB-D2DC-44B4-B010-085528A2629B</key>
+		<key>E5CBD445-7606-4831-9E5A-C832468BCF12</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>875478E5-C804-4BEF-8909-F9EDA6E6F3F8</string>
+			<string>4315DE47-9A47-47A9-A608-F32CC35F6031</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-sensorData-2022.12.11_08-43-13--0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692469793.52642798</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>E5CBD445-7606-4831-9E5A-C832468BCF12</string>
+		</dict>
+		<key>F8C57430-E0E1-4010-BB22-4FFD4E318A69</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0A74BB1C-6E90-455C-AF0F-E456E9C8EA78</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -697,7 +517,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_10-43-08--0800.xcresult</string>
+			<string>Run-sensorData-2022.12.11_08-10-50--0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -718,148 +538,13 @@
 			<key>signature</key>
 			<string>Run sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692217788.71343195</real>
+			<real>692467850.50389504</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>BDE407BB-D2DC-44B4-B010-085528A2629B</string>
-		</dict>
-		<key>C849099E-40FC-4C8A-9C55-F3558D44133D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EFB6CD2F-9FE5-4EB7-B798-6FDE93F505F0</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_16-37-36--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692239056.61867595</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>C849099E-40FC-4C8A-9C55-F3558D44133D</string>
-		</dict>
-		<key>F1BB914D-554C-4939-A10A-4955B4E9053A</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>AAFBFE85-0AEE-4975-A2AB-D6C404298AD4</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_16-32-39--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692238759.46722496</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>F1BB914D-554C-4939-A10A-4955B4E9053A</string>
-		</dict>
-		<key>FAC06113-40AC-4E4C-A2F5-0DC59BC12B1B</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C25CCEBC-715E-4E16-A726-AAC284B98C65</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-sensorData-2022.12.08_16-25-08--0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692238308.34938204</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>FAC06113-40AC-4E4C-A2F5-0DC59BC12B1B</string>
+			<string>F8C57430-E0E1-4010-BB22-4FFD4E318A69</string>
 		</dict>
 	</dict>
 </dict>

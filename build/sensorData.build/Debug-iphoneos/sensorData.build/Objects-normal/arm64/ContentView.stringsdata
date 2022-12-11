@@ -4,7 +4,11 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Show Data!"
+        "key": "Live IMU Data Display"
+      },
+      {
+        "comment": "",
+        "key": ""
       },
       {
         "comment": "",

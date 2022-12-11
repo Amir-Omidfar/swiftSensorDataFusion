@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>034E332D-DBDD-45E1-B8E4-36CB2F61D265</key>
+		<key>0582AF53-1E34-4412-9414-8D2C106EE84C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,177 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>034E332D-DBDD-45E1-B8E4-36CB2F61D265.xcactivitylog</string>
+			<string>0582AF53-1E34-4412-9414-8D2C106EE84C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692467792.12000597</real>
+			<key>timeStoppedRecording</key>
+			<real>692467792.52026498</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>0582AF53-1E34-4412-9414-8D2C106EE84C</string>
+		</dict>
+		<key>0A59D886-5DC6-4693-A1F3-C38678A8965F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A59D886-5DC6-4693-A1F3-C38678A8965F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692467724.93250704</real>
+			<key>timeStoppedRecording</key>
+			<real>692467725.36545205</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>0A59D886-5DC6-4693-A1F3-C38678A8965F</string>
+		</dict>
+		<key>0A74BB1C-6E90-455C-AF0F-E456E9C8EA78</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A74BB1C-6E90-455C-AF0F-E456E9C8EA78.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692467850.50400603</real>
+			<key>timeStoppedRecording</key>
+			<real>692467855.51712501</real>
+			<key>title</key>
+			<string>Build sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>0A74BB1C-6E90-455C-AF0F-E456E9C8EA78</string>
+		</dict>
+		<key>10C94288-E5DA-4998-88C9-1B2BB0AB7FB9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>10C94288-E5DA-4998-88C9-1B2BB0AB7FB9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692467679.34781396</real>
+			<key>timeStoppedRecording</key>
+			<real>692467679.68589795</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>10C94288-E5DA-4998-88C9-1B2BB0AB7FB9</string>
+		</dict>
+		<key>2363377F-12A8-418C-AE52-1E4B0D58BC9E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2363377F-12A8-418C-AE52-1E4B0D58BC9E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692468234.28357303</real>
+			<key>timeStoppedRecording</key>
+			<real>692468236.75564206</real>
+			<key>title</key>
+			<string>Build sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>2363377F-12A8-418C-AE52-1E4B0D58BC9E</string>
+		</dict>
+		<key>4315DE47-9A47-47A9-A608-F32CC35F6031</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4315DE47-9A47-47A9-A608-F32CC35F6031.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +202,15 @@
 			<key>signature</key>
 			<string>Build sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692209542.04232705</real>
+			<real>692469793.52657795</real>
 			<key>timeStoppedRecording</key>
-			<real>692209542.16163504</real>
+			<real>692469794.22719097</real>
 			<key>title</key>
 			<string>Build sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>034E332D-DBDD-45E1-B8E4-36CB2F61D265</string>
+			<string>4315DE47-9A47-47A9-A608-F32CC35F6031</string>
 		</dict>
-		<key>160B27C5-B210-4D01-A97F-1BC1806A821F</key>
+		<key>46C8160F-09D0-4453-A551-26F91757DA24</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +219,109 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>160B27C5-B210-4D01-A97F-1BC1806A821F.xcactivitylog</string>
+			<string>46C8160F-09D0-4453-A551-26F91757DA24.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692469820.99163496</real>
+			<key>timeStoppedRecording</key>
+			<real>692469823.870435</real>
+			<key>title</key>
+			<string>Build sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>46C8160F-09D0-4453-A551-26F91757DA24</string>
+		</dict>
+		<key>474D0665-C82D-4EE4-AE18-4ECB6752EBC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>474D0665-C82D-4EE4-AE18-4ECB6752EBC9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692239617.13490498</real>
+			<key>timeStoppedRecording</key>
+			<real>692239619.13892496</real>
+			<key>title</key>
+			<string>Build sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>474D0665-C82D-4EE4-AE18-4ECB6752EBC9</string>
+		</dict>
+		<key>54DBEDC0-1D8C-4303-8BE7-AA26B55C9CEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54DBEDC0-1D8C-4303-8BE7-AA26B55C9CEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692469710.65850401</real>
+			<key>timeStoppedRecording</key>
+			<real>692469713.34533501</real>
+			<key>title</key>
+			<string>Build sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>54DBEDC0-1D8C-4303-8BE7-AA26B55C9CEB</string>
+		</dict>
+		<key>5C034353-1752-4E6D-9E64-F01C37D5A9A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C034353-1752-4E6D-9E64-F01C37D5A9A5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +338,15 @@
 			<key>signature</key>
 			<string>Build for Previews sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692214022.88152397</real>
+			<real>692467811.59783804</real>
 			<key>timeStoppedRecording</key>
-			<real>692214024.33207202</real>
+			<real>692467812.80873895</real>
 			<key>title</key>
 			<string>Build for Previews sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>160B27C5-B210-4D01-A97F-1BC1806A821F</string>
+			<string>5C034353-1752-4E6D-9E64-F01C37D5A9A5</string>
 		</dict>
-		<key>3FDCCC32-DAD4-4277-8444-D1CC5C93F8B1</key>
+		<key>918552B4-438A-4664-BC52-918E96ADD591</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,75 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3FDCCC32-DAD4-4277-8444-D1CC5C93F8B1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692124017.29680395</real>
-			<key>timeStoppedRecording</key>
-			<real>692124017.38111305</real>
-			<key>title</key>
-			<string>Build sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>3FDCCC32-DAD4-4277-8444-D1CC5C93F8B1</string>
-		</dict>
-		<key>57CA19C2-100A-49E6-B24E-05BBF0150ECB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>57CA19C2-100A-49E6-B24E-05BBF0150ECB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>sensorData project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sensorData</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build sensorData</string>
-			<key>timeStartedRecording</key>
-			<real>692212012.57450402</real>
-			<key>timeStoppedRecording</key>
-			<real>692212015.04860306</real>
-			<key>title</key>
-			<string>Build sensorData</string>
-			<key>uniqueIdentifier</key>
-			<string>57CA19C2-100A-49E6-B24E-05BBF0150ECB</string>
-		</dict>
-		<key>6CE6C7DC-D85A-4FD0-AEED-4F6B80B1A820</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6CE6C7DC-D85A-4FD0-AEED-4F6B80B1A820.xcactivitylog</string>
+			<string>918552B4-438A-4664-BC52-918E96ADD591.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +372,15 @@
 			<key>signature</key>
 			<string>Build for Previews sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692213904.39684498</real>
+			<real>692467695.56229603</real>
 			<key>timeStoppedRecording</key>
-			<real>692213908.89636004</real>
+			<real>692467696.89745104</real>
 			<key>title</key>
 			<string>Build for Previews sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>6CE6C7DC-D85A-4FD0-AEED-4F6B80B1A820</string>
+			<string>918552B4-438A-4664-BC52-918E96ADD591</string>
 		</dict>
-		<key>7CB4131E-E108-435B-9BD6-7C4CB69F5444</key>
+		<key>99148AE9-36C5-432D-9DFC-A17D25935AA8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,7 +389,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7CB4131E-E108-435B-9BD6-7C4CB69F5444.xcactivitylog</string>
+			<string>99148AE9-36C5-432D-9DFC-A17D25935AA8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692467655.20577002</real>
+			<key>timeStoppedRecording</key>
+			<real>692467656.82611501</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>99148AE9-36C5-432D-9DFC-A17D25935AA8</string>
+		</dict>
+		<key>9E59E6E9-C34B-41CC-BA8C-1F37125E30D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E59E6E9-C34B-41CC-BA8C-1F37125E30D4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +440,15 @@
 			<key>signature</key>
 			<string>Build sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692209583.920717</real>
+			<real>692469468.984671</real>
 			<key>timeStoppedRecording</key>
-			<real>692209589.292732</real>
+			<real>692469471.56555104</real>
 			<key>title</key>
 			<string>Build sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>7CB4131E-E108-435B-9BD6-7C4CB69F5444</string>
+			<string>9E59E6E9-C34B-41CC-BA8C-1F37125E30D4</string>
 		</dict>
-		<key>7E732AB6-170E-4EE1-A508-5F86C37C8A4F</key>
+		<key>9FB9EB0E-AD9E-4E85-A9B8-831CD185DA0B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -219,7 +457,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7E732AB6-170E-4EE1-A508-5F86C37C8A4F.xcactivitylog</string>
+			<string>9FB9EB0E-AD9E-4E85-A9B8-831CD185DA0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692467719.50672901</real>
+			<key>timeStoppedRecording</key>
+			<real>692467719.92217302</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>9FB9EB0E-AD9E-4E85-A9B8-831CD185DA0B</string>
+		</dict>
+		<key>B350842E-D7D5-4EAD-9212-FB01318E43DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B350842E-D7D5-4EAD-9212-FB01318E43DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692416132.20096004</real>
+			<key>timeStoppedRecording</key>
+			<real>692416133.64123702</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>B350842E-D7D5-4EAD-9212-FB01318E43DE</string>
+		</dict>
+		<key>BEC27086-F91F-4EA1-BF26-99574ADFA4E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BEC27086-F91F-4EA1-BF26-99574ADFA4E9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +542,15 @@
 			<key>signature</key>
 			<string>Build sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692211169.064955</real>
+			<real>692469803.15307701</real>
 			<key>timeStoppedRecording</key>
-			<real>692211170.67877102</real>
+			<real>692469804.349859</real>
 			<key>title</key>
 			<string>Build sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>7E732AB6-170E-4EE1-A508-5F86C37C8A4F</string>
+			<string>BEC27086-F91F-4EA1-BF26-99574ADFA4E9</string>
 		</dict>
-		<key>F50D6799-2810-45A3-89F2-84A57739456F</key>
+		<key>C8C948AB-AB5F-4D3B-A498-0178D71DD0EE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -253,7 +559,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F50D6799-2810-45A3-89F2-84A57739456F.xcactivitylog</string>
+			<string>C8C948AB-AB5F-4D3B-A498-0178D71DD0EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692415567.78864002</real>
+			<key>timeStoppedRecording</key>
+			<real>692415570.39050603</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>C8C948AB-AB5F-4D3B-A498-0178D71DD0EE</string>
+		</dict>
+		<key>CCF6E40C-E853-4ED0-AC10-9E8F3B7E1BCB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CCF6E40C-E853-4ED0-AC10-9E8F3B7E1BCB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,13 +610,183 @@
 			<key>signature</key>
 			<string>Build sensorData</string>
 			<key>timeStartedRecording</key>
-			<real>692211354.23865902</real>
+			<real>692469756.49461603</real>
 			<key>timeStoppedRecording</key>
-			<real>692211364.00369704</real>
+			<real>692469756.56068003</real>
 			<key>title</key>
 			<string>Build sensorData</string>
 			<key>uniqueIdentifier</key>
-			<string>F50D6799-2810-45A3-89F2-84A57739456F</string>
+			<string>CCF6E40C-E853-4ED0-AC10-9E8F3B7E1BCB</string>
+		</dict>
+		<key>CD7E86A6-86BA-4599-B740-05B677211557</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CD7E86A6-86BA-4599-B740-05B677211557.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692469194.40082002</real>
+			<key>timeStoppedRecording</key>
+			<real>692469197.12213504</real>
+			<key>title</key>
+			<string>Build sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>CD7E86A6-86BA-4599-B740-05B677211557</string>
+		</dict>
+		<key>D1F291A0-8019-43D3-B352-C5B2E9266340</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1F291A0-8019-43D3-B352-C5B2E9266340.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692469669.02080297</real>
+			<key>timeStoppedRecording</key>
+			<real>692469669.51180303</real>
+			<key>title</key>
+			<string>Build sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>D1F291A0-8019-43D3-B352-C5B2E9266340</string>
+		</dict>
+		<key>E8E76A67-0894-48A8-AAB9-F80AAAF8B700</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8E76A67-0894-48A8-AAB9-F80AAAF8B700.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692469439.20185995</real>
+			<key>timeStoppedRecording</key>
+			<real>692469441.83555806</real>
+			<key>title</key>
+			<string>Build sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>E8E76A67-0894-48A8-AAB9-F80AAAF8B700</string>
+		</dict>
+		<key>EB5E5C05-C459-4A2B-94BF-A0D200C0C36F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB5E5C05-C459-4A2B-94BF-A0D200C0C36F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692467730.19552505</real>
+			<key>timeStoppedRecording</key>
+			<real>692467730.56476796</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>EB5E5C05-C459-4A2B-94BF-A0D200C0C36F</string>
+		</dict>
+		<key>F2B744F9-77D7-44C0-9F1C-B94E9C5594B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F2B744F9-77D7-44C0-9F1C-B94E9C5594B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>sensorData project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sensorData</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews sensorData</string>
+			<key>timeStartedRecording</key>
+			<real>692467714.65742099</real>
+			<key>timeStoppedRecording</key>
+			<real>692467715.41054797</real>
+			<key>title</key>
+			<string>Build for Previews sensorData</string>
+			<key>uniqueIdentifier</key>
+			<string>F2B744F9-77D7-44C0-9F1C-B94E9C5594B7</string>
 		</dict>
 	</dict>
 </dict>

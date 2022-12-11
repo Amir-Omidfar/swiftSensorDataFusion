@@ -8,33 +8,24 @@
 import SwiftUI
 
 var imuDataSample = imuDataManager()
-var readingAccelData = imuData(x:0,y:0,z:0)
-var readingGyroData = imuData(x:0,y:0,z:0)
+
 
 
 
 struct ContentView: View {
-    @State var showingData = false
+    @State var readingAccelData = imuData(x:0,y:0,z:0)
+    @State var readingGyroData = imuData(x:0,y:0,z:0)
+    @State var currentDate = Date.now
+    let timer = Timer.publish(every:0.2,on:.main,in:.common).autoconnect()
     var body: some View {
         VStack {
-            Button("Show Data!"){
-                showingData.toggle()
+            Text("Live IMU Data Display").padding()
+            Text("").onReceive(timer){
+                input in currentDate=input
                 imuDataSample.updateImuData()
                 readingAccelData = imuDataSample.getAccelData()
                 readingGyroData = imuDataSample.getGyroData()
-            }
-            .buttonStyle(.borderedProminent)
-        }
-        .padding()
-        .sheet(isPresented: $showingData){
-            DataSheetView().presentationDetents([.fraction(0.5)])
-        }
-    }
-}
-
-struct DataSheetView: View {
-    var body: some View{
-        VStack{
+            }.padding()
             Text("Accel Data")
                 .font(.title).padding()
             HStack{
@@ -58,10 +49,9 @@ struct DataSheetView: View {
         }
     }
     
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
+    struct ContentView_Previews: PreviewProvider {
+        static var previews: some View {
+            ContentView()
+        }
     }
 }
