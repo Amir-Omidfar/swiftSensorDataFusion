@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		32ACD10529470512001B4A9A /* lidarData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32ACD10429470512001B4A9A /* lidarData.swift */; };
 		32F587B629404D3100EE2BF6 /* sensorDataApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F587B529404D3100EE2BF6 /* sensorDataApp.swift */; };
 		32F587B829404D3100EE2BF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F587B729404D3100EE2BF6 /* ContentView.swift */; };
 		32F587BA29404D3300EE2BF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32F587B929404D3300EE2BF6 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		32ACD10429470512001B4A9A /* lidarData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lidarData.swift; sourceTree = "<group>"; };
 		32F587B229404D3100EE2BF6 /* sensorData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sensorData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32F587B529404D3100EE2BF6 /* sensorDataApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sensorDataApp.swift; sourceTree = "<group>"; };
 		32F587B729404D3100EE2BF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				32F587E12940D9C100EE2BF6 /* imuDataManager.swift */,
+				32ACD10429470512001B4A9A /* lidarData.swift */,
 			);
 			path = DataManager;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32ACD10529470512001B4A9A /* lidarData.swift in Sources */,
 				32F587B829404D3100EE2BF6 /* ContentView.swift in Sources */,
 				32F587B629404D3100EE2BF6 /* sensorDataApp.swift in Sources */,
 				32F587E22940D9C100EE2BF6 /* imuDataManager.swift in Sources */,
