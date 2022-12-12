@@ -5,22 +5,6 @@
       {
         "comment": "",
         "key": "Show Data!"
-      },
-      {
-        "comment": "",
-        "key": "Data"
-      },
-      {
-        "comment": "",
-        "key": "x: %.2f"
-      },
-      {
-        "comment": "",
-        "key": "y: %.2f"
-      },
-      {
-        "comment": "",
-        "key": "z: %.2f"
       }
     ]
   },

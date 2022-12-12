@@ -4,11 +4,15 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Data"
+        "key": "Show Data!"
       },
       {
         "comment": "",
-        "key": "Show Data!"
+        "key": "Accel Data"
+      },
+      {
+        "comment": "",
+        "key": "Gyro Data"
       }
     ]
   },

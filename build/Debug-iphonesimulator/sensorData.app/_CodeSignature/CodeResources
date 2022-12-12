@@ -4,9 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		4U9KGMEiYzkkWy3CmR6kbpUhw24=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		gjq+GtRg7ipSjtjemxnrzQjwQNw=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		B4MnVYQHi4OX8K7sw1iwEZ0pmrM=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		PQYFbYokReAQ8PsZoLIZZtwmZDI=
+		t/L6jlEfWMecX8Cm66Wv0YBrZ80=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -14,7 +26,29 @@
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9/rTUYU7uyb33CPCb8uuMsyivEUGlIrxdwgVCI+fhIY=
+			</data>
+		</dict>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CeAgbEBzXdImQUy9y2Js/M6V5xET4xZUJbpSwbbTV+w=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f/NsK2W+3AxvwDZOMjiJC4dI/Mji9+nt+gjinWmf/xk=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>

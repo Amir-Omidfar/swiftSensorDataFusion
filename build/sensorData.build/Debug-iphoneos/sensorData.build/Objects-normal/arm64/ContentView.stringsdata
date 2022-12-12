@@ -4,11 +4,23 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Show Data!"
+        "key": "Show Live IMU Data!"
       },
       {
         "comment": "",
-        "key": "Data"
+        "key": "Live IMU Data Display"
+      },
+      {
+        "comment": "",
+        "key": ""
+      },
+      {
+        "comment": "",
+        "key": "Accelerometer Data"
+      },
+      {
+        "comment": "",
+        "key": "Gyroscope Data"
       },
       {
         "comment": "",
