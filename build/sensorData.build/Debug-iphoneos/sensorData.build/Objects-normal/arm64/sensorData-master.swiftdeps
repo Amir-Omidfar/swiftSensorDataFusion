@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "2425167c21d9ba20404722c482fc2a0884d09e1302726f6979f4b693a15d2655"
-build_start_time: [1670777021, 106258869]
-build_end_time: [1670777023, 859627962]
+build_start_time: [1670825383, 965764999]
+build_end_time: [1670825386, 172491073]
 inputs:
-  "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData/ContentView.swift": [1670777020, 984198570]
+  "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData/ContentView.swift": [1670825383, 817078351]
   "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData/DataManager/imuDataManager.swift": [1670546817, 127114057]
-  "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData/sensorDataApp.swift": [1670391949, 31658887]
+  "/Users/ApplePro/Desktop/School/PostGrad/iosDev/sensorData/sensorData/sensorDataApp.swift": [1670825296, 265063285]
